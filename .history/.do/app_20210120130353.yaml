@@ -5,5 +5,5 @@ services:
   github:
     branch: master
     deploy_on_push: true
-    repo: npup/sample-react
+    repo: digitalocean/sample-react
   name: sample-react
